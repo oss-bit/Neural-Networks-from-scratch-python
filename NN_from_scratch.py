@@ -1,4 +1,4 @@
-#INITIAL IMPLEMENTATION
+ #INITIAL IMPLEMENTATION
 
 # inputs = [1, 2, 3, 2.5]
 
@@ -39,3 +39,4 @@ for neuron_weights, neuron_bias in zip(weights, biases):
 
 print(layer_outputs)
 
+   
